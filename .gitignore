@@ -2,6 +2,7 @@
 build/**
 install/**
 .cache/**
+logs/**
 
 # Prerequisites
 *.d

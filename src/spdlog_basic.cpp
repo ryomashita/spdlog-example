@@ -2,6 +2,7 @@
 
 // spdlog basic example
 // std::format (fmt) 準拠のフォーマット指定子を使用し、stdout にログを出力する
+// 改行文字は自動で追加される
 
 int main() {
   spdlog::info("Welcome to spdlog!");
