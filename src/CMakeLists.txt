@@ -6,3 +6,9 @@ link_spdlog(spdlog_basic_sinks)
 
 add_executable(spdlog_rotating spdlog_rotating.cpp)
 link_spdlog(spdlog_rotating)
+
+add_executable(spdlog_stopwatch spdlog_stopwatch.cpp)
+link_spdlog(spdlog_stopwatch)
+
+add_executable(spdlog_periodic spdlog_periodic.cpp)
+link_spdlog(spdlog_periodic)
