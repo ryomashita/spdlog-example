@@ -1,4 +1,13 @@
-# cpp-cmake-template
+# spdlog-example
+
+The code examples for [spdlog](https://github.com/gabime/spdlog).
+
+## logging library alternatives for C++
+
+- fmtlog
+- Quill
+- boost.log
+- glog
 
 ## About
 
